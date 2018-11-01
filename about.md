@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is an example blog and the opic I chose was pickles!
 
-### More Information
+### How to use this site
 
-A place to include any other types of information that you'd like to include about yourself.
+Use at your own discretion.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gsaitkenhead@aurorak12.org](mailto:gsaitkenhead@aurorak12.org)
