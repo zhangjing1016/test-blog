@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Add Images To Your Post
+header:
+  teaser: "/images/add-image.jpg"
 ---
 
 ## Adding a new post
