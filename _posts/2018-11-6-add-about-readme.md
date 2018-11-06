@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add An About Page and Change Your README File
+title: Add About and README Files
 ---
 
 ![laptop header](/images/add-image.jpg)
