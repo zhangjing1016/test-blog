@@ -9,7 +9,9 @@ After you fork Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-n
 
 ## First up -- change your config.yml file settings
 
-One of the first things you need to do is click on "config.yml" and then click on the little pencil icon to start editing your file. ![edit pencil icon]({{site.baseurl}}/images/edit-file.png) 
+One of the first things you need to do is click on "config.yml" and then click on the little pencil icon to start editing your file. 
+
+![edit pencil icon]({{site.baseurl}}/images/edit-file.png) 
 
 Once you can start editing your config.yml file it's time to start making some simple changes. There are three things to change in the image below -- change Barry Clark's name to your own (or to your blog's name), change the description to something that will represent what your blog is about, and change your avatar. Changing your avatar is more complicated, so I'll cover that below. 
 
