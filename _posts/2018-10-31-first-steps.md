@@ -39,6 +39,8 @@ Remember the name of your new avatar in your images folder. Now head back to you
 
 `"/images/NAME-OF-YOUR-IMAGE.png"`
 
+Note: Be careful to notice what kind of image you have on your computer – if it’s a PNG file, put “.png” at the end of your image name. If it's a JPG file, use ".jpg". 
+
 That's it! Commit your changes, wait a few minutes, and then check your website address or refresh your page to see your new avatar.
 
 ## Feeling Brave?
