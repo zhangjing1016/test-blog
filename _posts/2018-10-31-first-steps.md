@@ -37,9 +37,8 @@ Now that you have an image you want to use in the downloads folder of your compu
 
 Remember the name of your new avatar in your images folder. Now head back to your config.yml file, click the pencil to start editing the file, and change the avatar's website address to 
 
-```
-{{site.baseurl}}/images/NAME-OF-YOUR-IMAGE.png
-```
+`"/images/NAME-OF-YOUR-IMAGE.png"`
+
 That's it! Commit your changes, wait a few minutes, and then check your website address or refresh your page to see your new avatar.
 
 ## Feeling Brave?
