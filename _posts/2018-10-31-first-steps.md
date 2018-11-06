@@ -15,7 +15,7 @@ One of the first things you need to do is click on "config.yml" and then click o
 
 ![edit pencil icon](/images/edit-file.png) 
 
-Once you can start editing your config.yml file it's time to start making some simple changes. There are three things to change in the image below -- change Barry Clark's name to your own (or to your blog's name), change the description to something that will represent what your blog is about, and change your avatar. Changing your avatar is more complicated, so I'll cover that below. 
+There are three things to do in your config.yml file (see the image below) -- change Barry Clark's name to your own (or to your blog's name), change the description to something that will represent what your blog is about, and change your avatar. Changing your avatar is a little more complicated, so I'll cover in more detail at the end of this post. 
 
 > ![_config.yml](/images/config.png)
 
