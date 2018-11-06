@@ -3,6 +3,8 @@ layout: post
 title: First Steps
 ---
 
+![laptop header](/images/laptop.jpg)
+
 ## What should you do after your blog is up and running?
 
 After you fork Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-now) site, it's time to finish your site's basic setup. This blog post is going to cover what you should do after you have followed the three main steps on the Jekyll-Now page.
