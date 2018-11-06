@@ -22,9 +22,9 @@ Now, go to the main part of your repository (where you see all of your folders a
 ## Adding a picture to your post
 
 All you have to do to get the photo into your post is to use this code and replace with .
-```
-![Give Your Photo A Title](/images/name-of-your-image.jpg)
-```
+
+`![Give Your Photo A Title](/images/name-of-your-image.jpg)`
+
 Be careful to notice what kind of image you have on your computer -- if it's a PNG file, put ".png" at the end of your image name.
 
 ***That's it -- Now go out and impress the world!***
