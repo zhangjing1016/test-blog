@@ -5,9 +5,9 @@ title: Add Images To Your Post
 
 ## Adding a new post
 Start by going to your main repository. There should be a folder there with a sample post that was created for you by Jekyll Now, or one that you created. Click on "Create new file" and then add a title using the same format you see on your other post(s): 
-```
-2018-11-2-Title-Of-Your-Post.md
-```
+
+`2018-11-2-Title-Of-Your-Post.md`
+
 You should be presented with a blank page and you can start editing or adding content (text and photos).
 Finally, open one of your old posts (I like to open the post in a new tab), click the pencil to go to the editor, and copy/paste everything from an old post to the new file. Change the title in the head matter (top of the post) to match your file's name.
 
