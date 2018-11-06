@@ -9,7 +9,7 @@ name: Mr. A
 description: Tech Class Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{site.baseurl}}/images/blog-squares.png
+avatar: "/images/blog-squares.png"
 
 #
 # Flags below are optional
