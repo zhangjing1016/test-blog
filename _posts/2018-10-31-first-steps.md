@@ -11,17 +11,17 @@ After you fork Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-n
 
 One of the first things you need to do is click on "config.yml" and then click on the little pencil icon to start editing your file. 
 
-![edit pencil icon]({{site.baseurl}}/images/edit-file.png) 
+![edit pencil icon](/images/edit-file.png) 
 
 Once you can start editing your config.yml file it's time to start making some simple changes. There are three things to change in the image below -- change Barry Clark's name to your own (or to your blog's name), change the description to something that will represent what your blog is about, and change your avatar. Changing your avatar is more complicated, so I'll cover that below. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml](/images/config.png)
 
 ## Next, add a new avatar
 
 To add an avatar for your website, the image everyone will see at the top left of your webpage next to your title and description, start by finding a appropriate image using google. In this screenshot you can see that I went to images and then clicked on "Tools" to add more options. 
 
-![google image search]({{site.baseurl}}/images/google-image-search-ss.png)
+![google image search](/images/google-image-search-ss.png)
 
 ### Finding the right image
 
