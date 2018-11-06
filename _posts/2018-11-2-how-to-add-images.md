@@ -3,6 +3,8 @@ layout: post
 title: Add a Post With An Image
 ---
 
+![blog header](/images/blog-letters.jpg)
+
 ## Start by adding a new post
 Start by going to your main repository. There should be a folder there with a sample post that was created for you by Jekyll Now, or one that you created. Click on "Create new file" and then add a title using the same format you see on your other post(s): 
 
