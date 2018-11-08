@@ -4,7 +4,7 @@ title: Blog Philosophy
 ---
 
 ![laptop header](/images/blog-philosophy1.jpg)
-*The benefits of blogging are many.*
+*consider the benefits*
 
 # The Philosophy Behind Blogging
 Almost every blog on the internet exists because its maker subscribes to these three philosophical ideals:
@@ -18,7 +18,7 @@ If you're wondering what the big deal is about blogs, read on...
 # Be a producer, not a consumer
 
 ![maker](/images/maker.jpg)
-*photographers are makers -- how 'bout you?*
+*photographers are makers -- how about you?*
 
 One of the most important lifestyle changes you can make is to dedicate yourself to being a producer instead of a consumer. As articles like this one at [Lifehacker](https://lifehacker.com/5887345/start-every-day-as-a-producer-not-a-consumer) or this one at [HackTheEntrepreneur](https://hacktheentrepreneur.com/consumer-to-producer/) show, making instead of consuming is the fastest way for you to find true financial freedom. 
 
@@ -29,7 +29,7 @@ Adam Cave at Medium's ["A Startup"](https://medium.com/swlh/consumer-vs-producer
 
 # Make Links
 ![community](/images/community.jpg)
-*creating or joining a community feels great*
+*creating or joining a community is part of the path*
 
 Creating [links](https://en.wikipedia.org/wiki/Hyperlink) is the fastest way to link up with other like mined creators, learn more, and enjoy the benifits of being a part of a community. When you're writing, think about the people who have shaped your ideas and then show them some love by including their work in a [link--shout out to Eric Kim!](http://erickimphotography.com/blog/).
 
