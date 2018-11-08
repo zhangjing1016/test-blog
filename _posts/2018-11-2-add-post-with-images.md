@@ -16,7 +16,9 @@ Finally, open one of your old posts (I like to open the post in a new tab), clic
 ## Adding a picture to Github
 Before you can add a picture to your post you need to upload it to Github and put it into your "images" folder. 
 
-First you need to find a photo. You can use one of your own -- the easiest way to get it is to upload it from your phone to your Google Drive, then download it to your computer's "Downloads" folder, or do go to [Pexels](https://www.pexels.com/) and download a free photo. There's more information on finding and downloading images in the "Add An Avatar" section of [this blog post](https://awcpa.github.io/first-steps/).
+First you need to find a photo. You can use one of your own -- the easiest way to get it is to upload it from your phone to your Google Drive, then download it to your computer's "Downloads" folder, or do go to [Pexels](https://www.pexels.com/) and download a free photo. 
+
+> There's more information on finding and downloading images in the "Add An Avatar" section of [this blog post](https://awcpa.github.io/first-steps/).
 
 Now, go to the main part of your repository (where you see all of your folders and files) and click on "images." You should see files that end with ".jpd" and ".png." Click on the "Upload Files" button, click "choose your files," and then find the image in your computer's downloads folder. Now you should be ready to go.
 
