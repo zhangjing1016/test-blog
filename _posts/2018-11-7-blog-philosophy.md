@@ -4,7 +4,7 @@ title: Blog Philosophy
 ---
 
 ![laptop header](/images/blog-philosophy1.jpg)
-*consider the benefits*
+
 
 # The Philosophy Behind Blogging
 Almost every blog on the internet exists because its maker subscribes to these three philosophical ideals:
