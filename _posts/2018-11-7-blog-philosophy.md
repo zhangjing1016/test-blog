@@ -39,6 +39,7 @@ Most importantly, it's true that you're voice can't be heard in a vacuum. To gro
 
 Finally -- think about this. If you're doing your daily work, connecting it with others in your community, taking care of yourself and the writers in your group, then your influence will grow. This is how you bring your ideas or your products to the world. It might sound cliche, but it's true that
 > A journey of 1,000 miles begins with a single step.
+
 So, dedicate yourself to doing what you love every day, and create a daily making routing. If you love to write, wake up and journal. If you are an artist, make time every day to practice. If you want to help others volunteer, if you want to be a vet chart your course, focus on the classes you need in high school and college, and apply yourself. If you're bored, motivate yourself by looking closely at the options you have now and think about where your choices today might take you in the future. 
 
 In other words, if you're bored, you're not paying close enough attention to what's going on around you. Don't sell your potential short and don't give in to sloth and torpor (laziness). You can generate the energy you need to be the best at what you want to do -- so get busy.
