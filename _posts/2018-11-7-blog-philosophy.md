@@ -24,7 +24,7 @@ One of the most important lifestyle changes you can make is to dedicate yourself
 
 Adam Cave at Medium's ["A Startup"](https://medium.com/swlh/consumer-vs-producer-a-change-in-mindset-that-will-change-your-life-11cf8092e3e6) Blog says it well:  
 
-> Producers, on the other hand, strive to make something valuable to others. They receive their payment not only monetarily, but through the confidence of self that they don’t require anyone else to survive in this world.
+> Producers...strive to make something valuable to others. They receive their payment not only monetarily, but through the confidence of self that they don’t require anyone else to survive in this world.
 <br>
 
 # Make Links
